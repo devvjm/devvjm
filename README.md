@@ -14,7 +14,7 @@
   <img align="center" alt="Saiki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Saiki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Saiki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Saiki-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/974196781149720619/974196813861101608/download20220504032729.png?width=480&height=480">
+  <img align="right" alt="Saiki-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/974196781149720619/974212610499182642/fa0bcb3b59431b22d980a1fb17f6d14f.gif">
 </div>
 
 ##
