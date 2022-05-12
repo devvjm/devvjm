@@ -1,6 +1,6 @@
 ## Olá! 👾
 
-- 🌱 Estudando: HTML, CSS e JavaScript
+- 🌱 Estudando: HTML, CSS, JavaScript e Python
 - 😄 Pronomes: ele/dele
 
 <div align="center">
