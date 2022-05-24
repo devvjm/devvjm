@@ -3,7 +3,7 @@
 - 🤓👨‍💻📚 Estudando: HTML, CSS, JavaScript e Python
 - 🎮🕹️🖲️ Gamer
 
-🎐🌸🏮💮🍥👹🗻⛩️🎐🌸🏮💮🍥👹🗻⛩️🎐🌸🏮💮🍥👹🗻⛩️🎐🌸🏮💮🍥👹🗻⛩️🎐🌸🏮💮🍥👹🗻⛩️🎐🌸🏮💮🍥👹🗻⛩️
+🎐🌸🏮💮🍥👹🗻⛩️🎐🌸🏮💮🍥👹🗻⛩️🎐🌸🏮💮🍥👹🗻⛩️🎐🌸🏮💮🍥👹🗻⛩️🎐🌸🏮💮🍥👹🗻⛩️
 
 <div align="center">
   <a href="https://github.com/devvjm">
