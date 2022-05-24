@@ -1,4 +1,4 @@
-## Olá! 👾
+## Olá! 🖖
 
 - 🌱 Estudando: HTML, CSS, JavaScript e Python
 - 😄 Pronomes: ele/dele
